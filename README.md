@@ -12,6 +12,8 @@ When you publish the templates, only publish ```/Files``` and not the root of th
 
 ## Create a new VS Code project
 As an alternative create a new VS Code project, create a web sdk project and install Dynamicweb nuget packages.
+
+Open a terminal window in VS Code (```VS Code > Terminal > New Terminal```)
 ```
 dotnet new web
 dotnet add package Dynamicweb
