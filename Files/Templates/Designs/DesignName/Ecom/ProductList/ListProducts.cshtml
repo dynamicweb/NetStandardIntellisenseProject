@@ -1,0 +1,12 @@
+@inherits Dynamicweb.Rendering.RazorTemplateBase<Dynamicweb.Rendering.RazorTemplateModel<Dynamicweb.Rendering.Template>>
+
+
+
+<h1>@GetString("Ecom:ProductList:Page.GroupName")</h1>
+
+<ul>
+@foreach (LoopItem product in GetLoop("Products"))
+{
+    <li>@product.GetString("Ecom:Product.Name") (@product.GetString("Ecom:Product.Price.PriceWithVATFormatted"))</li>
+}
+</ul>

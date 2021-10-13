@@ -1,0 +1,27 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NetStandardIntellisenseProject
+build_property.RootNamespace = NetStandardIntellisenseProject
+build_property.ProjectDir = c:\Git\NetStandardIntellisenseProject\
+build_property.RazorLangVersion = 6.0
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Git\NetStandardIntellisenseProject
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Git/NetStandardIntellisenseProject/Files/Templates/Designs/DesignName/Ecom/ProductCatalog/ListProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmlsZXNcVGVtcGxhdGVzXERlc2lnbnNcRGVzaWduTmFtZVxFY29tXFByb2R1Y3RDYXRhbG9nXExpc3RQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Git/NetStandardIntellisenseProject/Files/Templates/Designs/DesignName/Ecom/ProductList/ListProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmlsZXNcVGVtcGxhdGVzXERlc2lnbnNcRGVzaWduTmFtZVxFY29tXFByb2R1Y3RMaXN0XExpc3RQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Git/NetStandardIntellisenseProject/Files/Templates/Designs/DesignName/Page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmlsZXNcVGVtcGxhdGVzXERlc2lnbnNcRGVzaWduTmFtZVxQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

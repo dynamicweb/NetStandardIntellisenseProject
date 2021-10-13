@@ -1,0 +1,12 @@
+@inherits Dynamicweb.Rendering.ViewModelTemplate<Dynamicweb.Ecommerce.ProductCatalog.ProductListViewModel>
+@using Dynamicweb.Rendering
+@using Dynamicweb.Ecommerce.ProductCatalog
+
+<h1>@Model.Group.Name</h1>
+
+<ul>
+@foreach (var product in Model.Products)
+{
+    <li>@product.Name (@product.Price.PriceWithVatFormatted)</li>
+}
+</ul>
