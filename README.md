@@ -30,7 +30,7 @@ There are basically 2 types of templates
 - Template tag templates using ```GetValue("")``` tag notation (Classic templates).
 
 ### ViewModel based template intellisense
-To enable intellisense in a viewmodel based template, add an @inherits Dynamicweb.Rendering.ViewModelTemplate<> statement in the first line of the template. It is a generic, and the generic type is the ViewModel that should be used in the template.
+To enable intellisense in a viewmodel based template, add an ```@inherits Dynamicweb.Rendering.ViewModelTemplate<>``` statement in the first line of the template. It is a generic, and the generic type is the ViewModel that should be used in the template.
 
 Examples
 
