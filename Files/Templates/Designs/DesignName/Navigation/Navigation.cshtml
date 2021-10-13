@@ -1,0 +1,20 @@
+@inherits Dynamicweb.Rendering.ViewModelTemplate<Dynamicweb.Frontend.Navigation.NavigationTreeViewModel>
+
+<ul>
+    @foreach (var node in Model.Nodes)
+    {
+        <li>
+            <a href="@node.Link">@node.Name</a>
+
+            if(node.Nodes.Any()){
+                //There are subnodes
+                <ul>
+                    @foreach (var subnode in node.Nodes){
+                        <li><a href="@subnode.Link">@subnode.Name</a></li>
+                    }
+                </ul>
+            }
+
+        </li>
+    }
+</ul>

@@ -18,10 +18,22 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = RmlsZXNcVGVtcGxhdGVzXERlc2lnbnNcRGVzaWduTmFtZVxFY29tXFByb2R1Y3RDYXRhbG9nXExpc3RQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Git/NetStandardIntellisenseProject/Files/Templates/Designs/DesignName/Ecom/ProductCatalog/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmlsZXNcVGVtcGxhdGVzXERlc2lnbnNcRGVzaWduTmFtZVxFY29tXFByb2R1Y3RDYXRhbG9nXFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Git/NetStandardIntellisenseProject/Files/Templates/Designs/DesignName/Ecom/ProductList/ListProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RmlsZXNcVGVtcGxhdGVzXERlc2lnbnNcRGVzaWduTmFtZVxFY29tXFByb2R1Y3RMaXN0XExpc3RQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Git/NetStandardIntellisenseProject/Files/Templates/Designs/DesignName/Navigation/Navigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmlsZXNcVGVtcGxhdGVzXERlc2lnbnNcRGVzaWduTmFtZVxOYXZpZ2F0aW9uXE5hdmlnYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Git/NetStandardIntellisenseProject/Files/Templates/Designs/DesignName/Page.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RmlsZXNcVGVtcGxhdGVzXERlc2lnbnNcRGVzaWduTmFtZVxQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Git/NetStandardIntellisenseProject/Files/Templates/Designs/DesignName/Paragraph/Paragraph.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RmlsZXNcVGVtcGxhdGVzXERlc2lnbnNcRGVzaWduTmFtZVxQYXJhZ3JhcGhcUGFyYWdyYXBoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

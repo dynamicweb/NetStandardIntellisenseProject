@@ -16303,8 +16303,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Git\\NetStandardIntellisenseProject\\Files\\Templates\\Designs\\DesignName\\Navigation\\Navigation.cshtml",
+      "TargetPath": "Files\\Templates\\Designs\\DesignName\\Navigation\\Navigation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Git\\NetStandardIntellisenseProject\\Files\\Templates\\Designs\\DesignName\\Paragraph\\Paragraph.cshtml",
+      "TargetPath": "Files\\Templates\\Designs\\DesignName\\Paragraph\\Paragraph.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Git\\NetStandardIntellisenseProject\\Files\\Templates\\Designs\\DesignName\\Page.cshtml",
       "TargetPath": "Files\\Templates\\Designs\\DesignName\\Page.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Git\\NetStandardIntellisenseProject\\Files\\Templates\\Designs\\DesignName\\Ecom\\ProductCatalog\\Product.cshtml",
+      "TargetPath": "Files\\Templates\\Designs\\DesignName\\Ecom\\ProductCatalog\\Product.cshtml",
       "FileKind": "mvc"
     },
     {
