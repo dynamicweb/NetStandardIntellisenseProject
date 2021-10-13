@@ -19,6 +19,7 @@ dotnet add package Dynamicweb.Rendering.Providers.NetCore
 dotnet add package Dynamicweb.Ecommerce
 ```
 
+
 ## Get intellisense in templates
 To get the right intellisense in templates, the Razor template has to have the correct Inherits statement.
 
@@ -140,3 +141,18 @@ These apps and features have ViewModels
 - Customer Center
   
   A list of all viewmodels can be found in the API documentation https://doc.dynamicweb.com/api/html/c0c19636-f848-e866-6208-ade44285310b.htm
+
+## Limitations
+Using helpers in templates under this setup will not give you intellisense since helpers do not exist on ASP.NET Core.
+
+So code like below will give you red and yellow warnings when authoring templates, but will work when running them on a real Dynamicweb 9 installation.
+
+```
+<div>
+	@RenderBody()
+</div>
+
+@helper RenderBody()
+{
+}
+```
